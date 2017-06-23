@@ -1,0 +1,5 @@
+{
+    "require": {
+        "alexpechkarev/geometry-library": "1.0"
+    }
+}
